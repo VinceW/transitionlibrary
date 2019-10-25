@@ -1,0 +1,14 @@
+
+<!-- Start of bestuiver-voor include -->
+{% if page.bestuiver-voor %}
+<h1>Bestuiving</h1>
+Dit is een goede bestuiver voor:
+<ul>
+  {% for bestuiver in page.bestuiver-voor %}
+  <li>
+    <a href="../{{ bestuiver }}">{{ bestuiver }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+<!-- End of bestuiver-voor include -->
