@@ -12,7 +12,7 @@ We volgen de methodologie zoals beschreven op de github-helppagina's over [forki
 
 ## Welk werk moet worden gedaan?
 
-We gebruiken de [Github-probleemwachtrij](https://github.com/VinceW/transitionlibrary/issues), dus u kunt ernaar kijken om te zien wat de huidige problemen zijn.
+We gebruiken de [Github-wachtrij](https://github.com/VinceW/transitionlibrary/issues), dus u kunt daar kijken om te zien wat de werkzaamheden zijn.
 
 Als je iets ziet waaraan je graag zou willen werken, neem dan contact op met een beheerder en begin te werken :-)
 
